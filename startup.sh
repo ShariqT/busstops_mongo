@@ -1,0 +1,1 @@
+mongoimport --db busstops --collection routes --file /tmp/routes.json
