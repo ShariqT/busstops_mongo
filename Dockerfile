@@ -1,4 +1,4 @@
-FROM dockerfile/mongodb
+FROM mongo
 
 ADD routes.json /tmp/routes.json
 
